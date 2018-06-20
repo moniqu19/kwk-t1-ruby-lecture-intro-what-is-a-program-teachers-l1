@@ -1,5 +1,6 @@
 # What is a Program?
 
+  
 puts "This is a program"
 puts "Programs are interpreted at runtime."
 puts "Which means even though I'm writing this Tue Jan 17 2012 8:36am"
@@ -20,4 +21,6 @@ puts "Finally, barewords, or variables, that are set equal to things."
 
 puts "Anything that isn't one of those will cause an error."
 
-see
+
+ what_is_a_program
+ 
